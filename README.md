@@ -1,6 +1,6 @@
 ## :shipit: Hello friend! You're welcome!
 
-I'm a Computer Science working as a full-stack developer. I love coding, playing video games gym in my spare time 
+I'm a Computer Science working as a full-stack developer. I love coding, playing video games and gym in my spare time 
 
 :fast_forward: I’m currently working with 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C Sharp" width="25" height="25" />, 
