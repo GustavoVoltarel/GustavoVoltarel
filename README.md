@@ -11,7 +11,7 @@ I'm a Computer Science working as a full-stack developer. I love coding, playing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="25" height="25" />,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="25" height="25" /> and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="25" height="25" />
-
+##
 ## :chart_with_upwards_trend: My Github stats:
 <div>
 <a href="https://github.com/GustavoVoltarel">
@@ -20,7 +20,7 @@ I'm a Computer Science working as a full-stack developer. I love coding, playing
 </div>
  
 ![Snake animation](https://github.com/GustavoVoltarel/GustavoVoltarel/blob/output/github-contribution-grid-snake.svg)
-
+##
 ## :mailbox_with_no_mail: How to reach me:
 <div>
   <a href="https://www.linkedin.com/in/gustavo-voltarel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
