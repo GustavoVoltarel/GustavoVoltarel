@@ -2,6 +2,7 @@
 
 I'm a Computer Science working as a full-stack developer. I love coding, playing video games and gym in my spare time 
 
+##
 :fast_forward: I’m currently working with 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C Sharp" width="25" height="25" />, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="25" height="25" /> and 
@@ -11,6 +12,7 @@ I'm a Computer Science working as a full-stack developer. I love coding, playing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="25" height="25" />,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="25" height="25" /> and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="25" height="25" />
+
 ##
 ## :chart_with_upwards_trend: My Github stats:
 <div>
@@ -18,8 +20,8 @@ I'm a Computer Science working as a full-stack developer. I love coding, playing
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVoltarel&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoVoltarel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 
 ![Snake animation](https://github.com/GustavoVoltarel/GustavoVoltarel/blob/output/github-contribution-grid-snake.svg)
+ 
 ##
 ## :mailbox_with_no_mail: How to reach me:
 <div>
